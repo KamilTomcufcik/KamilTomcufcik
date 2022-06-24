@@ -2,7 +2,7 @@
 - I’m interested in developing web applications
 - I’m currently learning front end development
 - How to reach me: kamil.tomcufcik@gmail.com
-- My first and current project -> https://language-practice-41c4b.web.app/
+- Project -> https://language-practice-41c4b.web.app/
 
 <!---
 KamilTomcufcik/KamilTomcufcik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
